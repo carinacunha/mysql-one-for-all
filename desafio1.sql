@@ -99,7 +99,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
 
   INSERT INTO SpotifyClone.cancoes (cancao, duracao, album_id)
   VALUES
-    ("Break My Soul", 279, 1),
+    ("BREAK MY SOUL", 279, 1),
     ("VIRGO’S GROOVE", 369, 1), 
     ("ALIEN SUPERSTAR", 116, 1), 
     ("Don’t Stop Me Now", 203, 2), 
